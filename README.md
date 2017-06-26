@@ -9,7 +9,7 @@ Remove vertical seams from this image to reduce the distance between the girl an
 
 Size: 500x500
 
-![Original](images/sc1.pnghttps://github.com/sumehta/seam-carving/blob/master/Images/sc1.png) 
+![Original](https://github.com/sumehta/seam-carving/blob/master/Images/sc1.png) 
 
 Size: 500x470
 
