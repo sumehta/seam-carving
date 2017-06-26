@@ -8,13 +8,17 @@ Seam carving (or liquid rescaling) is an algorithm for content-aware image resiz
 Remove vertical seams from this image to reduce the distance between the girl and the cliff ends.
 
 Size: 500x500
-![alt text][images/sc1.png] 
+
+![Original][images/sc1.pnghttps://github.com/sumehta/seam-carving/blob/master/Images/sc1.png] 
 
 Size: 500x470
-![alt text][images/sc2.png]
+
+![Width reduced by 30 pixels][https://github.com/sumehta/seam-carving/blob/master/Images/sc2.png]
 
 Size: 500x440
-![alt text][images/sc3.png] 
+
+![Width reduced by 60 pixels][https://github.com/sumehta/seam-carving/blob/master/Images/sc3.png] 
 
 Size: 500x420
-![alt text][images/sc4.png]
+
+![Width reduced by 80 pixels][https://github.com/sumehta/seam-carving/blob/master/Images/sc4.png]
